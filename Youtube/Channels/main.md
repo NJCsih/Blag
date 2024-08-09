@@ -2,6 +2,10 @@ This is gonna hopefully turn into a list of channels I like, I don't think a lis
 
 The information below was pulled on 2024_08_09
 
+Tagging and bullets:
+- #Legacy -- channels I don't watch anymore
+- #Disappeared -- channels that have since removed their content/quit posting
+
 ---
 
 - ( ) 3Blue1Brown | @3blue1brown•6.36M subscribers | My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective. For more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com
@@ -60,6 +64,7 @@ The information below was pulled on 2024_08_09
 - ( ) Danny Proto | @DannyProto•2.69K subscribers | i'm the real danny proto orange protogen
 - ( ) Der Isy | @DerIsy•2.24K subscribers | Videos about Space Engineers, Scripting and other random things.
 - ( ) DeviantOllam | @DeviantOllam•156K subscribers
+- ( ) Direwolf20 | @direwolf20 |•514K subscribers•5.3K videos
 - ( ) DocB | @docb7593•555 subscribers
 - ( ) Doggie | @DoggieDasher•186K subscribers | hello PFP & Banner by Mystic Texture Pack by Soluble Icons by arin GD Username: Doggie Recording & Streaming Software: OBS Studio Video Editing Software: Final Cut Pro Thumbnail Software: Photoshop CC 2024 Mouse: Logitech G502 Hero Keyboard: Corsair K70 TKL // SayoDevice O3C Mic: Elgato Wave 3 Webcam: Logitech C920 GPU: GeForce RTX 3070 CPU: Intel Core i9-12900K Motherboard: ASUS ROG STRIX Z690-F
 - ( ) Dont_jinxit | @dont_jinxit•21.6K subscribers | Your typical sleep-deprived, caffeine-addicted, digital artist~ Find me elsewhere: https://jinxit.carrd.co
@@ -90,6 +95,7 @@ The information below was pulled on 2024_08_09
 - ( ) Ianxofour | @ianxofour•179K subscribers | IanXO4 or ianxofour, but you can call me Ian (he/him/his). Ian's Discord Server: https://discord.gg/G9aa2YTTQX
 - ( ) Imaginatively Unimaginative | @ImaginativelyUnimaginative•122K subscribers | Welcome to Imaginatively Unimaginative. I make drawing and tutorial videos along with some other stuff as this whole thing evolves into the terrible dumpster fire that I foresee. Enjoy the blaze!
 - ( ) Internet Comment Etiquette with Erik | @commentiquette•1.06M subscribers | Follow Teacher Erik as he guides you through the muck of the internet. Together, we'll learn how to leave proper and respectful internet comments!
+Minecraft, Gaming and Mods.  Spotlights, Tutorials, and Lets Plays. 
 - ( ) ItsJim | @ItsJimJCX•332K subscribers | uhhhu hh uhhhh uh ign jimjcx
 - ( ) JKM | @JKM115•32.8K subscribers | Wavetech member, perimeter enthusiast, quarry addict
 - ( ) Jackisanerd | @jackisanerd•644K subscribers | Nailed it.
@@ -184,7 +190,7 @@ The information below was pulled on 2024_08_09
 - ( ) Scott Manley | @scottmanley•1.7M subscribers | Scott Manley is someone who fell into youtube because he felt a deep compelling need to teach people orbital mechanics and rocket science so they could play Kerbal Space Program, now, years later the gaming videos are less important and the pure science is the main thrust. My degrees are all in Physics and Astronomy, so much of the rocket science and engineering I've learned is self taught, always learning, always teaching. I'm not a professional youtuber, I have a day job in software development which means I won't take lame sponsored content, or tell you to sign up for affiliate services to make a quick buck. However lots of generous people have asked to support my hobby via Patreon and I'm grateful to those individuals. Also occasionally shares cute videos of his kids.
 - ( ) Scruffy | @ScruffyMusic•528K subscribers | Hello! I'm Scruffy, I'm a composer and 3D artist who loves to teach about video game audio and music theory! For business inquiries: contactscruffy@gmail.com The logotype in my banner was designed by Astralite! https://youtube.com/c/NancerOne
 - ( ) Season Liberally | @SeasonLiberally•7.27K subscribers | I am a professionally trained Culinary and Patisserie chef, and while I don't work in the industry anymore, I still have a passion for cooking. I am creating videos that breakdown technique when possible, and using food science when I have the chance. I'm hoping this show creates in others a passion for food and learning, as well as making a community where people feel comfortable chatting with each other about food.
-- ( ) Shizlanski | @Shizlanski•532 subscribers
+- (-) Shizlanski | @Shizlanski•532 subscribers
 - ( ) Shut Up & Sit Down | @shutupandsitdown•431K subscribers | The very best board game reviews, playthroughs, and more! World-class coverage with a welcoming community. New video review every week! Also come join us for Let's Plays, How to Plays, and Special Features. Live videos, podcasts, written reviews, features and more on our website: shutupandsitdown.com.
 - ( ) SimplySarc | @SimplySarc•394K subscribers | Your adventure into the wondrous world of SimplySarc begins here... For any and all business inquiries, please check email below.
 - ( ) Slimecicle | @Slimecicle•4.1M subscribers | I make silly videos, thank you for watching them. Email for business: charlie@slimecicle.com
